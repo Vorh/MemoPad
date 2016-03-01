@@ -1,0 +1,36 @@
+.delete-but-record {
+    -fx-color: darkgray;
+}
+.delete-but-record:hover {
+
+}
+.delete-but-section{
+
+}
+.delete-but-section:hover{
+
+}
+
+
+.add-but-section{
+
+}
+.add-but-section:hover{
+
+}
+.add-but-record{
+
+}
+.add-but-record:hover{
+
+}
+
+.menu-bar{
+    -fx-background-color: #d9d7ca;
+}
+
+.tab-header-background {
+    -fx-background-color: #d9d7ca;
+    -fx-effect: innershadow(two-pass-box , rgba(0,0,0,0.6) , 4, 0.0 , 0 , 0);
+
+}
